@@ -1,16 +1,6 @@
 # konversi_suhu
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Screenshot
+RAW
+![convert suhu1](https://user-images.githubusercontent.com/74538482/201578954-f0edd5dd-3c4e-4bd8-9b54-ac4b63ac4554.jpeg)
+Input Number
+![convert suhu2](https://user-images.githubusercontent.com/74538482/201579006-5e3bbf01-d6df-448a-ae65-36044cb08346.jpeg)
